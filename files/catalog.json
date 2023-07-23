@@ -1,0 +1,20 @@
+
+[
+    
+    {
+        "source": "book",
+        "title": "ini book 1 test",
+        "subject": null,
+        "upc": null,
+        "isbn": null,
+        "authors": null,
+        "dds_number": "123321"
+    },
+    {
+        "source": "cd",
+        "title": "ini cd 1 test",
+        "subject": null,
+        "upc": null,
+        "artist": "maya"
+    }
+]
